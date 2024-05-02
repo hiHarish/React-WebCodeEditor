@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hiHarish/React-WebCodeEditor.git/static/css/main.3276ec34.css",
+    "main.js": "/hiHarish/React-WebCodeEditor.git/static/js/main.8acfffc6.js",
+    "static/js/453.bea3d0f3.chunk.js": "/hiHarish/React-WebCodeEditor.git/static/js/453.bea3d0f3.chunk.js",
+    "static/media/img3.jpg": "/hiHarish/React-WebCodeEditor.git/static/media/img3.f2eac61b708bf70a3045.jpg",
+    "static/media/bgimg.jpg": "/hiHarish/React-WebCodeEditor.git/static/media/bgimg.16b84feab5724b3068c8.jpg",
+    "static/media/img2.jpg": "/hiHarish/React-WebCodeEditor.git/static/media/img2.f6370f78959386e38446.jpg",
+    "index.html": "/hiHarish/React-WebCodeEditor.git/index.html",
+    "main.3276ec34.css.map": "/hiHarish/React-WebCodeEditor.git/static/css/main.3276ec34.css.map",
+    "main.8acfffc6.js.map": "/hiHarish/React-WebCodeEditor.git/static/js/main.8acfffc6.js.map",
+    "453.bea3d0f3.chunk.js.map": "/hiHarish/React-WebCodeEditor.git/static/js/453.bea3d0f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3276ec34.css",
+    "static/js/main.8acfffc6.js"
+  ]
+}
